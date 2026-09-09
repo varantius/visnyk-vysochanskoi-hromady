@@ -1,0 +1,12 @@
+{
+  "name": "hromada-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dry": "node index.js --dry"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
